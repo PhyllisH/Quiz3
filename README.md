@@ -1,4 +1,5 @@
 # Quiz3
+Yue Hu (021034910091)
 
 ## 1. What's the definition of plagiarism and multiple submissions? (2pt)
 - Plagiarism: the act of quoting others' ideas, insights, achievements, or language without claiming the source.
